@@ -1,36 +1,18 @@
 ---
 title: "Ebube Onwuta"
-layout: home
-author_profile: true
+layout: single
 permalink: /
+author_profile: true
 ---
 
 ## Backend Software Engineer
 
-I build APIs, backend systems, and scalable services.
+I build backend systems and APIs.
 
 ---
 
-## Featured Projects
+### Explore
 
-### URL Shortener
-Flask + Redis + PostgreSQL  
-GitHub: https://github.com/...
-
----
-
-### Authentication Service
-JWT-based backend system  
-GitHub: https://github.com/...
-
----
-
-### API Service
-REST API with clean architecture  
-GitHub: https://github.com/...
-
----
-
-## About Me
-
-Medical student exploring backend engineering and system design.
+- Projects → /projects/
+- About → /about/
+- GitHub → https://github.com/Ebuube
