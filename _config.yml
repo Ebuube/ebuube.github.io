@@ -51,9 +51,6 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/ebubestar"
 
-# REMOVE BLOG BEHAVIOR
-paginate: 0
-
 permalink: /:title/
 
 # REMOVE THESE (important)
