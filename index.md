@@ -1,6 +1,7 @@
 ---
 title: "Ebube Onwuta"
 layout: home
+author_profile: true
 permalink: /
 ---
 
