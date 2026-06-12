@@ -12,7 +12,7 @@ A WhatsApp automation platform for sales professionals
 - Flask API + PostgreSQL + Celery + Redis + Twilio + SendGrid + api docs
 
 GitHub:
-https://github.com/codetivite/FollowUpX
+[https://github.com/codetivite/FollowUpX](https://github.com/codetivite/FollowUpX)
 
 ---
 
@@ -24,7 +24,7 @@ URL shortening service that can support high and busy traffic. Produces non-gues
 - FastAPIs + PostgreSQL + Celery + Redis + Amazon DynamoDB + api docs
 
 GitHub:
-https://github.com/Ebuube/obere
+[https://github.com/Ebuube/obere](https://github.com/Ebuube/obere)
 
 ---
 
@@ -36,7 +36,7 @@ An interactive quiz web app with detached backend and frontend
 - Flask + PostgreSQL + JavaScript + JQuery + api docs
 
 GitHub:
-https://github.com/Ebuube/Nervenex
+[https://github.com/Ebuube/Nervenex](https://github.com/Ebuube/Nervenex)
 
 ---
 
@@ -48,7 +48,7 @@ A simple, focused task management system for individuals who value time, clarity
 - Python + Django + api docs
 
 GitHub:
-https://github.com/Ebuube/todo-with-django
+[https://github.com/Ebuube/todo-with-django](https://github.com/Ebuube/todo-with-django)
 
 ---
 
@@ -60,4 +60,4 @@ An emulator for Unix shell and allows users to run linux commands directly in it
 - C language + Makefile + Bash
 
 GitHub:
-https://github.com/Ebuube/simple_shell
+[https://github.com/Ebuube/simple_shell](https://github.com/Ebuube/simple_shell)
