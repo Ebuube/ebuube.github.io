@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ebube Onwuta"
   avatar : "/assets/images/ResizedImage_2026-03-30_20-01-05_1.jpg"
-  bio    : "I am Ebube Gideon Onwuta, a seasoned Backend Software Engineer with a strong foundation in developing scalable APIs, automating business processes, and deploying robust services to production."
+  bio    : "I am a seasoned Backend Software Engineer with a strong foundation in developing scalable APIs, automating business processes, and deploying robust services to production."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
