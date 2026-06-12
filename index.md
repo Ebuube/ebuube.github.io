@@ -1,6 +1,6 @@
 ---
 title: "Ebube Onwuta"
-layout: single
+layout: home
 permalink: /
 ---
 
