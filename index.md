@@ -13,6 +13,6 @@ I build backend systems and APIs.
 
 ### Explore
 
-- Projects → /projects/
-- About → /about/
-- GitHub → https://github.com/Ebuube
+- Projects → [/projects/](/projects/)
+- About → [/about/](/about/)
+- GitHub → [https://github.com/Ebuube](https://github.com/Ebuube)
