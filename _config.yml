@@ -6,7 +6,7 @@ email: "onwutaebubegideon1555@gmail.com"
 description: >-
   Backend Software Engineer | Python | REST APIs | System Design
 
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: sunrise
 search: true
 
 # Site URL (IMPORTANT - add this)
@@ -29,7 +29,7 @@ plugins:
 # AUTHOR SECTION
 author:
   name: "Ebube Onwuta"
-  avatar: "/assets/images/ResizedImage_2026-03-30_20-01-05_1.jpg"
+  avatar: "/assets/images/profile-photo.jpg"
   bio: "Backend Software Engineer focused on scalable APIs, distributed systems, and backend architecture."
   links:
     - label: "GitHub"
